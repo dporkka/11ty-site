@@ -13,7 +13,7 @@
     {
       "text": "Example Contact Page",
       "url": "/contact",
-      "external": false
+      "external": true
     }
   ]
 }
